@@ -15,4 +15,4 @@ mvp_eng_dados_david
 nesse último rodei ele e exportei como html e subi como página do github pages
 
 e está no caminho
-https://davidwrs.github.io/posdadosmvp3/mvp_eng_dados_david.html
+https://davidwrs.github.io/posdadosmvp3/mvp_eng_dados_david_2025.html
