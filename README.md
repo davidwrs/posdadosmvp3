@@ -16,3 +16,5 @@ nesse último rodei ele e exportei como html e subi como página do github pages
 
 e está no caminho
 https://davidwrs.github.io/posdadosmvp3/mvp_eng_dados_david_2025.html
+
+como medida de segurança deixei uma pasta 'arquivos' com todos notebooks exportados tanto no formato .html como .ypynb
